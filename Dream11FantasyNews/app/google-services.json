@@ -1,0 +1,161 @@
+{
+  "project_info": {
+    "project_number": "85394834188",
+    "firebase_url": "https://dream-11-teams-ca602.firebaseio.com",
+    "project_id": "dream-11-teams-ca602",
+    "storage_bucket": "dream-11-teams-ca602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85394834188:android:c88b77f5070aec5c",
+        "android_client_info": {
+          "package_name": "dream11.ipl.com.tips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85394834188-o7d2v9djcr6b80qpfhr50vki7f5rivn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dream11.ipl.com.tips",
+            "certificate_hash": "18d26927c0089abf4a0bc9a355af085493878428"
+          }
+        },
+        {
+          "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWW304kO3TC2UrNJec0lCi6RVwYByf6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85394834188:android:d63a6f2d07f34e36",
+        "android_client_info": {
+          "package_name": "release.dvd.movies.blurayrelease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWW304kO3TC2UrNJec0lCi6RVwYByf6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85394834188:android:18527bcf955464f1",
+        "android_client_info": {
+          "package_name": "science.ghost.www.fantasy_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWW304kO3TC2UrNJec0lCi6RVwYByf6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85394834188:android:6ae3a9cd7771e7dc",
+        "android_client_info": {
+          "package_name": "science.ghost.www.ghost_fantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85394834188-t7g8dbhto0081d1siur54ocsu6en57aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "science.ghost.www.ghost_fantasy",
+            "certificate_hash": "50d987a8e1c7452001272c45588a378498145230"
+          }
+        },
+        {
+          "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWW304kO3TC2UrNJec0lCi6RVwYByf6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85394834188-gt8rcv6uuhbjb2aacisce2tdas0vu8ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
